@@ -8,7 +8,7 @@ Sometimes, you chose variable names that weren't very helpful in keeping track o
 
 At the beginning, you posed the question: "How many new infections were recorded after vaccinations as compare to before," and I see where you tried to answer that question.  However, there's no explanation of the answer.  I'm not sure if your work actually answers the comparison concisely.  (-10 on Documentation and Professionalism)
 
-Your use of functions was very limited and seems thrown in at the last minute. You should use functions to organize your work and provide test cases that validate how you are transforming data. (-4 from Modularity/Style) 
+Your use of functions was very limited and seems thrown in at the last minute. You should use functions to organize your work and provide test cases that validate how you are transforming data. (-7 from Modularity/Style) 
 
 * Data Access and Formats (5): 5
 * Data Merging (5): 5
